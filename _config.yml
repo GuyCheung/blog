@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://guycheung.github.io
+url: http://guyzyl.com
 title: "Guy Cheung's Blog"
 subtitle:
 author: Guy Cheung
@@ -91,7 +91,7 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name: guy_xtafcusqt
+disqus_short_name: guycheungsblog
 disqus_show_comment_count: true
 
 # Google Analytics
